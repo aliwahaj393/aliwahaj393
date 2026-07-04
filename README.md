@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ali Wahaj Sufi!</h1>
 
-<h3 align="center">Software & AI Engineer | Game Developer — Building custom AI models and interactive games</h3>
+<h3 align="center">Software & AI Engineer | Game Developer • Building custom AI models and interactive games</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-wahaj-391643321" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
