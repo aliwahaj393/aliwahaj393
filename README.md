@@ -41,7 +41,7 @@ I build AI systems and video games. My work covers everything from training cust
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,mysql" alt="Cloud & Databases" />
   </a>
-  <img src="https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j&logoColor=white" />
+  <img src="neo4j.svg" alt="Neo4j" />
 </p>
 
 **Tools & Platforms**
@@ -106,8 +106,8 @@ I build AI systems and video games. My work covers everything from training cust
     *   *C++, Command Line*
     *   A command-line grade management system that automates score calculation and grade assignment (A–F) from mid-term and final exam marks.
 *   **[digital-clock](https://github.com/aliwahaj393/digital-clock)**
-    *   *C#*
-    *   A reliable digital clock application demonstrating effective time logic and system programming fundamentals.
+    *   *Proteus, Digital Logic Design*
+    *   A 24-hour digital clock and counter system demonstrating practical applications of digital electronics and sequential logic.
 
 ---
 
