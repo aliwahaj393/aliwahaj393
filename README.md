@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ali Wahaj Sufi!</h1>
+<h1 align="center">Hi there, I'm Ali Wahaj Sufi!</h1>
 
 <h3 align="center">Software & AI Engineer | Game Developer • Building custom AI models and interactive games</h3>
 
@@ -8,66 +8,27 @@
 </p>
 
 <p align="center">
-I build AI systems and video games. My work covers everything from training custom neural networks from scratch to programming interactive 3D simulations. I enjoy solving hard logic problems and keeping my codebase clean. I live in Lahore, Pakistan 🇵🇰.
+I build AI systems and video games. My work covers everything from training custom neural networks from scratch to programming interactive 3D simulations. I enjoy solving hard logic problems and keeping my codebase clean. I live in Lahore, Pakistan.
 </p>
 
 ---
 
-### 🚀 Technical Arsenal
+### Technical Arsenal
 
-**Programming Languages**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,html,css" alt="Programming Languages" />
-  </a>
-</p>
-
-**Web Development**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django" alt="Web Development" />
-  </a>
-</p>
-
-**Game Development**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity" alt="Game Development" />
-  </a>
-</p>
-
-**Cloud & Databases**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,mysql" alt="Cloud & Databases" />
-  </a>
-  <img src="https://raw.githubusercontent.com/aliwahaj393/aliwahaj393/main/neo4j.svg" alt="Neo4j" />
-</p>
-
-**Tools & Platforms**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Tools & Platforms" />
-  </a>
-</p>
-
-**AI, Machine Learning & Core Concepts**
-<p align="left">
-  <img src="https://img.shields.io/badge/-Deep%20Learning-black?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Neural%20Networks-black?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy&logoColor=4dABcf" />
-  <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=150458" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hierarchical%20Clustering-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-black?style=flat-square" />
-</p>
+| Area | Technologies |
+| :--- | :--- |
+| **Programming** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,html,css" alt="Programming Languages" /></a> |
+| **Web Dev** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" alt="Web Development" /></a> |
+| **Game Dev** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity" alt="Game Development" /></a> |
+| **Cloud & DB** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,mysql" alt="Cloud & Databases" /></a> <img src="https://raw.githubusercontent.com/aliwahaj393/aliwahaj393/main/neo4j.svg" alt="Neo4j" /> |
+| **Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Tools & Platforms" /></a> |
+| **AI & Core Concepts** | <img src="https://img.shields.io/badge/-Deep%20Learning-black?style=flat-square&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/-Neural%20Networks-black?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy&logoColor=4dABcf" /> <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=150458" /> <img src="https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/-Hierarchical%20Clustering-black?style=flat-square" /> <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-black?style=flat-square" /> <img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-black?style=flat-square" /> |
 
 ---
 
-### 💡 Featured Projects
+### Featured Projects
 
-#### 🤖 AI & Machine Learning
+#### AI & Machine Learning
 *   **[AI Customer Segmentation](https://github.com/aliwahaj393/AI-Customer-Segmentation)**
     *   *Python, Scikit-Learn, SciPy, Pandas, Seaborn*
     *   An unsupervised machine learning pipeline that segments customers into meaningful clusters using Hierarchical Clustering and PCA for dimensionality reduction.
@@ -75,7 +36,7 @@ I build AI systems and video games. My work covers everything from training cust
     *   *Python, Pygame, NEAT Algorithm*
     *   An autonomous AI agent trained from scratch using the NeuroEvolution of Augmenting Topologies (NEAT) algorithm to master Flappy Bird.
 
-#### 🎮 Game Development
+#### Game Development
 *   **[Indie Game Development Portfolio](https://aliwahaj.itch.io/)**
     *   *Unity, C#*
     *   A complete portfolio of interactive web-based games hosted on itch.io, featuring action-packed titles like Space Blaster, Solar System simulation, and various 2D/3D platformers.
@@ -86,7 +47,7 @@ I build AI systems and video games. My work covers everything from training cust
     *   *Unity, C#*
     *   A fast-paced, reflex-testing arcade game inspired by Fruit Ninja, featuring intuitive click mechanics and dynamic object spawning.
 
-#### ⚡ Engineering & Systems
+#### Engineering & Systems
 *   **[Automata Simulator](https://github.com/aliwahaj393/automata-simulator)**
     *   *JavaScript, HTML/CSS, Neo4j Graph Database*
     *   A comprehensive web application for visually designing and simulating Deterministic and Non-Deterministic Finite Automata (DFA/NFA) with a Neo4j backend.
@@ -111,7 +72,7 @@ I build AI systems and video games. My work covers everything from training cust
 
 ---
 
-### 🎓 Certifications
+### Certifications
 - **Neural Networks and Deep Learning** (Coursera)
 - **Advanced Learning Algorithms** (Coursera)
 - **Game Design and Development with Unity** (Coursera)
@@ -119,7 +80,7 @@ I build AI systems and video games. My work covers everything from training cust
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliwahaj393&show_icons=true&theme=radical&hide_border=true" alt="Ali Wahaj's GitHub stats" width="48%" />
