@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ali Wahaj Sufi!</h1>
 
-<h3 align="center">Software & AI Engineer | Game Developer — Pioneering the Future with Immersive Games & Intelligent Systems</h3>
+<h3 align="center">Software & AI Engineer | Game Developer — Building custom AI models and interactive games</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-wahaj-391643321" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -15,17 +15,43 @@ I build AI systems and video games. My work covers everything from training cust
 
 ### 🚀 Technical Arsenal
 
-| Area | Technologies |
-| :--- | :--- |
-| **💻 Programming** | <img align="center" src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,html,css" /> |
-| **🌐 Web Dev** | <img align="center" src="https://skillicons.dev/icons?i=django" /> |
-| **🎮 Game Dev** | <img align="center" src="https://skillicons.dev/icons?i=unity" /> |
-| **☁️ Cloud & DB** | <img align="center" src="https://skillicons.dev/icons?i=aws,mysql" /> <img align="center" src="https://raw.githubusercontent.com/aliwahaj393/aliwahaj393/main/neo4j.svg" width="48" height="48" /> |
-| **🛠️ Tools** | <img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" /> |
+**Programming Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,html,css" alt="Programming Languages" />
+  </a>
+</p>
 
-<br>
+**Web Development**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django" alt="Web Development" />
+  </a>
+</p>
 
-**🧠 AI, Machine Learning & Core Concepts**
+**Game Development**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity" alt="Game Development" />
+  </a>
+</p>
+
+**Cloud & Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,mysql" alt="Cloud & Databases" />
+  </a>
+  <img src="https://raw.githubusercontent.com/aliwahaj393/aliwahaj393/main/neo4j.svg" alt="Neo4j" />
+</p>
+
+**Tools & Platforms**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Tools & Platforms" />
+  </a>
+</p>
+
+**AI, Machine Learning & Core Concepts**
 <p align="left">
   <img src="https://img.shields.io/badge/-Deep%20Learning-black?style=flat-square&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/-Neural%20Networks-black?style=flat-square&logo=tensorflow&logoColor=white" />
