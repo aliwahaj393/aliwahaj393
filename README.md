@@ -94,8 +94,8 @@ I build AI systems and video games. My work covers everything from training cust
     *   *JavaScript, HTML/CSS, Neo4j Graph Database*
     *   An interactive visual tool that automatically converts Context-Free Grammars (CFG) into equivalent Pushdown Automata (PDA) representations with live stack trace simulation.
 *   **[Tower of Hanoi](https://github.com/aliwahaj393/Tower-of-Hanoi)**
-    *   *C++, Windows Console API*
-    *   An iterative solver for the Tower of Hanoi puzzle with real-time ASCII console visualization using a custom Stack data structure.
+    *   *C++*
+    *   An iterative solver for the Tower of Hanoi puzzle featuring real-time ASCII terminal animations (via ANSI escape codes) and a custom Stack data structure.
 *   **[University Management System](https://github.com/aliwahaj393/University-Management-System)**
     *   *C++, OOP*
     *   A fully object-oriented simulation of university operations modeling Students, Teachers, Courses, and Degrees using inheritance and file I/O.
